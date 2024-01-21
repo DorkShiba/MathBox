@@ -14,5 +14,5 @@ def mul(a, b):
     return a * b
 
 
-def div_premium(a, b):
+def divide_new(a, b):
     return a / b
