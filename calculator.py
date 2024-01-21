@@ -12,3 +12,7 @@ def sub(a, b):
 # 곱셈
 def mul(a, b):
     return a * b
+
+
+def div(a, b):
+    return a / b
