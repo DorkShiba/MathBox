@@ -16,3 +16,8 @@ def mul(a, b):
 
 def divide_new(a, b):
     return a / b
+
+
+def say_hello():
+    print("Hello")
+    
