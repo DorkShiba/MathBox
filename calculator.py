@@ -1,4 +1,4 @@
-# 기본 계산기입니다
+# 기본 계산기
 # 덧셈
 def add(a, b):
     return a + b
@@ -14,6 +14,6 @@ def mul(a, b):
     return a * b
 
 
-def divide_new(a, b):
+# 나눗셈
+def div(a, b):
     return a / b
-
