@@ -16,3 +16,7 @@ def mul(a, b):
 
 def div_free(a, b):
     return a / b
+
+
+def square(a):
+    return a ** 2
